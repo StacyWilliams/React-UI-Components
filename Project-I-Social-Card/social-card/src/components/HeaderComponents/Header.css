@@ -1,1 +1,42 @@
 /* All styles for your header Components live here */
+.headerContainer {
+    width: 100%;
+    /* height: 400px; */
+    display:flex;
+    flex-direction: row;
+    
+    
+    
+
+}
+
+.imageThumbnail {
+    width: 75px;
+    height:75px;
+    padding: 0 25px;
+   
+    
+    
+    
+}
+
+.headerTitle {
+   width: 90%;
+ display: flex;
+ flex-direction: row;
+ padding-left: 33px ;
+ 
+border: 1px solid black;
+
+
+
+}
+
+
+.headerContent {
+    display: flex;
+}
+
+
+
+

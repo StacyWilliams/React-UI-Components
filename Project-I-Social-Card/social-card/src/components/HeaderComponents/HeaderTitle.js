@@ -2,10 +2,11 @@ import React from 'react';
 import './Header.css';
 
 const HeaderTitle = () => {
-    <h5 className='headerTitle'>
-        @Lambda School
-        <span>Date.now()</span>
-        </h5>
+    return (
+    <div className='headerTitle'>
+        <span><h5>Lambda School</h5><p>@Lambda School</p><p>5/28/2019</p></span>
+        </div>
+    );
 
 };
 
