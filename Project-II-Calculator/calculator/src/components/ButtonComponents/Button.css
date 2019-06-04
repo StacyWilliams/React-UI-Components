@@ -1,0 +1,40 @@
+.buttonStyle {
+    font-size: 50px;
+    cursor: pointer;
+    border: 1px solid grey;
+    
+}
+
+
+.numberButton {
+    width: 25%;
+    font-weight: bold;
+    color: black;
+    background: white;
+    
+}
+
+
+.actionButton {
+    width: 25%;
+    color: white;
+    background: #A0001E;
+}
+
+
+.largeButton {
+    width: 75%;
+    color: white;
+    background: black;
+}
+
+.zeroButton {
+    color: black;
+    font-weight: bold;
+    background: white;
+}
+.clearButton{
+    color: black;
+    font-weight: bold;
+    background-color: white;
+}
