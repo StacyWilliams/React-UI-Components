@@ -5,8 +5,8 @@ import './Header.css';
 const ImageThumbnail = () => {
     return (
         <div className="imageThumbnail"> 
-        <img src="https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png" />
-         </div>
+             <img src="https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png" width="100" height="100" ></img>
+        </div>
    );
  };
 

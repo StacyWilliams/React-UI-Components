@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    width: 75%;
+    margin: 0 85px;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 35px;
+}
