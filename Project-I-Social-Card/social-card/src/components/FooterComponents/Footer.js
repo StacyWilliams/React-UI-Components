@@ -8,10 +8,10 @@ const Footer = () => {
     return (
         <div >
             <ul className="footer">
-             <li><FontAwesomeIcon icon={faComment} /></li> 
-              <li><FontAwesomeIcon icon={faRetweet} /></li>
-              <li><FontAwesomeIcon icon={faHeart} /></li>
-              <li> <FontAwesomeIcon icon={faEnvelope} /></li>
+             <li><button ><FontAwesomeIcon icon={faComment} /></button></li> 
+              <li><button><FontAwesomeIcon icon={faRetweet} /></button></li>
+              <li><button><FontAwesomeIcon icon={faHeart} /></button></li>
+              <li><button><FontAwesomeIcon icon={faEnvelope} /></button></li>
             </ul>
         </div>
     )
