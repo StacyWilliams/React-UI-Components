@@ -1,5 +1,9 @@
 .calculatorDisplay {
+    height: 150%;
+    margin: 8px;
     color: white;
     background-color: black;
     border-color: 1px solid black;
+    border-radius: 15px;
+    -webkit-box-shadow: 3px 4px 4px 0px black;
 }

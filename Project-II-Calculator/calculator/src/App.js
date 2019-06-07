@@ -7,10 +7,10 @@ import CalculatorDisplay from './components/DisplayComponents/CalculatorDisplay'
 const App = () => {
   return (
     <div className="calculator">
-    <div className="row calculatorDisplay">
+    <div className="row  calculatorDisplay">
       <CalculatorDisplay />
     </div>
-    <div>
+    <div className='row'>
      <ActionButton text="clear" buttonStyle="buttonStyle actionButton largeButton clearButton" /> 
      <ActionButton text="÷" buttonStyle="buttonStyle actionButton" /> 
     </div>
